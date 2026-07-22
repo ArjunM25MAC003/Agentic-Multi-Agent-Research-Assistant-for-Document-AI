@@ -1,4 +1,4 @@
-# Agentic RAG Research Assistant for Document AI
+# Agentic RAG Research Assistant for Documents
 
 This repository contains a Colab-ready notebook that builds an end-to-end **agentic retrieval-augmented generation research assistant** for technical question answering over local PDFs and recent arXiv papers in Document AI.
 
